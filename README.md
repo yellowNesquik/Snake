@@ -1,1 +1,1 @@
-# repository
+# Light Snake game on C#
